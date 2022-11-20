@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "cloudinary": "^1.32.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "express-fileupload": "^1.4.0",
+    "mongoose": "^6.7.2",
+    "nodemon": "^2.0.20"
+  },
+  "name": "instaclone-backend",
+  "description": "instaclone-backend",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "start":"nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jayeeta22/instaclone-backend.git"
+  },
+  "author": "Jayeeta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jayeeta22/instaclone-backend/issues"
+  },
+  "homepage": "https://github.com/Jayeeta22/instaclone-backend#readme"
+}
